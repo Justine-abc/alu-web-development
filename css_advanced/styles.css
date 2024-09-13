@@ -297,3 +297,66 @@ blockquote {
     margin-bottom: 150px;
     line-height: 1.5;
 }
+
+.display_4 p br {
+    content: '';
+    display: block;
+    margin-bottom: 5px;
+}
+
+.display_4 h2{
+    margin-top: 10px;
+}
+
+.display_4 button{
+    display: block;
+    background-color: #C271FF;
+    color: white;
+    font-family:"Source Sans Pro", sans-serif;
+    border-radius: 20px;
+    padding: 12px 20px;
+    font-size: 14px;
+    font-weight: 200;
+    border: none;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.6) 0px 0px 6px;
+}
+
+.faq {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.faq h1 {
+    font-size: 32px;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+
+.faq-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.division {
+    flex: 1 1 calc(50% - 40px);
+    box-sizing: border-box;
+    padding-left: 120px;
+    padding-bottom: 100px;
+    border: transparent;
+    text-align: left;
+}
+
+.division h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.division p {
+    font-size: 14px;
+    line-height: 1.6;
+}
