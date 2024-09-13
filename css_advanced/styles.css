@@ -145,4 +145,66 @@ main {
     font-style: italic;
     padding: 3px;
     align-items: center;
+.display_2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    background-color: #C271FF;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+    width: 100%;
+    margin-top: 50px;
+    min-height: 320px;
+}
+
+.smiller-purpel {
+    display: flex;
+    align-items: center;
+}
+
+.smiller-purpel img.Person {
+    margin-right: 20px;
+}
+
+.smiller-purpel div {
+    max-width: 600px;
+}
+
+.smiller-purpel div p{
+    margin: 10px auto;
+}
+
+blockquote {
+    margin: 0;
+    padding: 0;
+}
+
+.display_3{
+    display: block;
+    margin: 100px auto;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.display_3 h1{
+    font-size: 32px;
+    font-weight: 100;
+    color: black;
+    text-align: center;
+}
+
+.display_3 h1 span{
+    font-weight: bold;
+    color: #C271FF;
+}
+
+.tutorials{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+    margin-top: 50px;
+}
 }
