@@ -208,3 +208,46 @@ blockquote {
     margin-top: 50px;
 }
 }
+
+.Phillip{
+    height: 50px;
+}
+
+.author {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.author .top-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.author .review {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.author .stars {
+    display: flex;
+    gap: 5px;
+}
+
+.Phillip {
+    width: 50px;
+    height: 50px;
+}
+
+.purple_name {
+    font-size: 18px;
+    color: #C271FF;
+}
+
+.purple_time {
+    font-size: 14px;
+    color: #C271FF;
+}
