@@ -1,0 +1,47 @@
+*{background-color: rgb(219, 226, 150);
+    margin: 2px 2px 2px 2px;
+}
+
+header {
+    color: rgb(127, 21, 141);
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    justify-content: center;
+    align-content: center;
+    border-bottom: 2px solid rgb(10, 9, 10);
+    transition: border-bottom-color 2s ease;
+}
+
+header a {
+    color: blue;
+    font-weight: bolder;
+    display: flex;
+    margin-bottom: 20px;
+    padding-top: 10px;
+}
+p{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    font-weight: bold;
+}
+aside {}
+
+aside p {
+    padding: 20px;
+    border-radius: 50px;
+    border: 3px solid #074579;
+    background: #aa80a8;
+    color: black;
+}
+
+footer a {
+    color: rgb(255, 0, 98);
+    
+}
+
+a {
+    color: #0400f8;
+    display: flex;
+}
