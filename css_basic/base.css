@@ -1,0 +1,28 @@
+* {background-image: url(".."), linear-gradient(to left, rgb(136, 76, 136), rgb(173, 127, 127), rgb(94, 185, 94));
+}
+
+header {
+    border-bottom: 1px solid rgb(221, 221, 221);
+    transition: border-bottom-color 1s ease;
+}
+
+header a {
+    color: rgba(0, 0, 0, 0.8);
+    font-weight: bolder;
+}
+
+aside {}
+
+aside p {
+    border: 2px solid #ee5757;
+    background: #918b8b;
+    color: black;
+}
+
+footer a {
+    color: rgba(0, 0, 0, 0.8);
+}
+
+a {
+    color: #0400f8;
+}
