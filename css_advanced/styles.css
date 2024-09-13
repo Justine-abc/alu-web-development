@@ -360,3 +360,38 @@ blockquote {
     font-size: 14px;
     line-height: 1.6;
 }
+
+footer {
+    background-color: #19182a;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 100px;
+    min-height: 120px;
+}
+
+.items_d5{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 1033px;
+    margin-top: 50px;
+}
+
+.social_medias{
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+.display_5 p{
+    font-family: 'Source Sans Pro', sans-serif;
+    align-items: center;
+    color: azure;
+    font-size: 8px;
+    margin-top: 80px;
+    padding-left: 550px;
+}
