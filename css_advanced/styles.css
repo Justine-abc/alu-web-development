@@ -251,3 +251,49 @@ blockquote {
     font-size: 14px;
     color: #C271FF;
 }
+
+.display_4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #19182a;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 14px;
+    width: 100%;
+    margin-top: 50px;
+    min-height: 320px;
+    flex-direction: column;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.display_4 h1{
+    font-size: 32px;
+    font-weight: 100;
+    color: white;
+    text-align: center;
+}
+
+.display_4 h1 span{
+    font-weight: bold;
+    color: #C271FF;
+}
+
+.membership_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 110px;
+    margin-top: 50px;
+}
+
+
+
+.display_4 p{
+    margin-top: 20px;
+    margin-bottom: 150px;
+    line-height: 1.5;
+}
