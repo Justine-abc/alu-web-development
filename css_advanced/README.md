@@ -7,7 +7,7 @@ Page1 Page2 Page3 Page4 Page5
 
 Downloading
 Clone the repository:
-git clone https://github.com/Bonaparte003/css_advanced.git
+git clone https://github.com/Justine-abc/css_advanced.git
 Navigate to the project directory:
 cd advanced_css
 Open the index.html file in your browser to view the project.
